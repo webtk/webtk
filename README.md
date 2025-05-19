@@ -5,17 +5,19 @@ I'm passionate about technology, open source, and building solutions that make a
 
 ## 🚀 About Me
 
-- 💻 I love working on web technologies, automation, and developer tools.
-- 🌱 Currently learning: **[Your current focus, e.g., TypeScript, Rust, Kubernetes, etc.]**
-- 🛠️ Main interests: Open-source projects, productivity tools, and cloud infrastructure.
+- 💻 I love working on web technologies, machine learning, automation, and developer tools.
+- 🌱 Currently learning: **[Python, PyTorch, Lightning, PyVista, Ray, etc.]**
+- 🛠️ Main interests: Open-source projects, productivity tools, and HPC/Cloud infrastructure.
 - 🔍 Always exploring new tech trends and best practices.
 
 ## 🧰 Languages & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-339933?logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-339933?logo=pytorch&logoColor=white)
+![Lightning](https://img.shields.io/badge/-Lightning-339933?logo=lightning&logoColor=white)
+![PyVista](https://img.shields.io/badge/-PyVista-339933?logo=pyvista&logoColor=white)
+![Ray](https://img.shields.io/badge/-Ray-339933?logo=ray&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 <!-- Add or remove badges as appropriate -->
@@ -23,12 +25,6 @@ I'm passionate about technology, open source, and building solutions that make a
 ## 📈 GitHub Stats
 
 ![webtk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=webtk&show_icons=true&hide_title=true&count_private=true&theme=gruvbox)
-
-## 📫 How to reach me
-
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/webtk/)
-- [Twitter](https://twitter.com/webtk) <!-- Optional, remove if not needed -->
 
 ---
 
